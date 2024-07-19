@@ -47,18 +47,30 @@ Some Insights from the analysis include;
 3. Significant food loss starts at the production level, with farms not harvesting all produce.
 4. Most food waste from consumer-facing businesses and consumers ends up in landfills.
 
+# Waste Quantity
+
+![image](https://github.com/user-attachments/assets/d05b3159-2ea2-4dcc-bf3b-83d34807133a)
+
 
 # Waste Sources 
 Over 80% of all food waste originates from consumer-facing businesses and homes.
 
-![image](https://github.com/Renikeji19/Analysis-of-Food-Waste-in-the-United-States/assets/97131888/6c6f805d-9647-4d6b-92f3-3df4c522eb4f)
+![image](https://github.com/user-attachments/assets/b7b09599-a4d1-41bc-9e92-f71a9b9e4aa2)
+
+
+# Waste Causes
+
+![image](https://github.com/user-attachments/assets/a40ed2d2-e22f-42bd-8276-bb1e7e607b90)
+
 
 # Waste Destinations
 Most food waste from consumer-facing businesses and consumers ends up in landfills.
 
-![image](https://github.com/Renikeji19/Analysis-of-Food-Waste-in-the-United-States/assets/97131888/52d92edf-7a8f-46b9-ae9a-960ec853e4ca)
+![image](https://github.com/user-attachments/assets/e343db34-0dca-46b6-bbc3-449f1e066105)
 
+# Environmental Impacts
 
+![image](https://github.com/user-attachments/assets/05d1eda5-7d5d-495f-be43-9b41c8a46cd4)
 
 
 ## CONCLUSION AND RECOMMENDATIONS
