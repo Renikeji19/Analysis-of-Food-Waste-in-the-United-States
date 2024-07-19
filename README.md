@@ -38,21 +38,21 @@ After merging, some data cleaning steps were applied to the tables in Tableau to
 ![image](https://github.com/Renikeji19/Analysis-of-Food-Waste-in-the-United-States/assets/97131888/3839fea9-3ee9-478a-92f4-dac673d4bb5e)
 
   
-## DATA ANALYSIS
+## DATA ANALYSIS SUMMARY
 
-Some Insights from the analysis include;
 
-1. Approximately 87% of surplus food in the U.S. goes to waste, translating to $378 billion a year.
-2. Over 80% of all food waste originates from consumer-facing businesses and homes.
 3. Significant food loss starts at the production level, with farms not harvesting all produce.
 4. Most food waste from consumer-facing businesses and consumers ends up in landfills.
 
 # Waste Quantity
 
+Approximately 87% of surplus food in the U.S. goes to waste, translating to $378 billion a year spent on food that is never eaten.
+
 ![image](https://github.com/user-attachments/assets/d05b3159-2ea2-4dcc-bf3b-83d34807133a)
 
 
 # Waste Sources 
+
 Over 80% of all food waste originates from consumer-facing businesses and homes.
 
 ![image](https://github.com/user-attachments/assets/b7b09599-a4d1-41bc-9e92-f71a9b9e4aa2)
@@ -60,17 +60,20 @@ Over 80% of all food waste originates from consumer-facing businesses and homes.
 
 # Waste Causes
 
+Food loss begins at the production level when farmers do not harvest all that they produce. In the manufacturing industries, products can require trimming for use in end products, leading to edible parts going unused (e.g. ends and skins). Furthermore, high customer standards for freshness lead food businesses to dispose of safe, edible food when it is perceived to be past its prime. Lastly, the demand for variety and abundance of food creates waste in consumer homes.
+
 ![image](https://github.com/user-attachments/assets/a40ed2d2-e22f-42bd-8276-bb1e7e607b90)
 
 
 # Waste Destinations
-Most food waste from consumer-facing businesses and consumers ends up in landfills.
+
+80% of food waste derived from consumer-facing businesses and consumers are channeled to landfills thereby contributing to pollution.
 
 ![image](https://github.com/user-attachments/assets/e343db34-0dca-46b6-bbc3-449f1e066105)
 
 # Environmental Impacts
 
-![image](https://github.com/user-attachments/assets/05d1eda5-7d5d-495f-be43-9b41c8a46cd4)
+![image](https://github.com/user-attachments/assets/9c5f8b91-5780-4030-890d-baf845170f11)
 
 
 ## CONCLUSION AND RECOMMENDATIONS
