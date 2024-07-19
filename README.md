@@ -75,10 +75,11 @@ Food loss begins at the production level when farmers do not harvest all that th
 
 ## CONCLUSION AND RECOMMENDATIONS
 
-This analysis highlights the urgent need for integrated strategies to reduce food waste in the U.S. Effective measures could significantly mitigate environmental impacts and enhance food security. E.g:
-Prevention and Reduction: Implementing sustainable farming practices and improving the food supply chains.
-Recovery and Redistribution: Establishing food collection networks and incentivizing food donations.
-Recycling and Composting: Promoting community composting programs and biogas production facilities.
+This analysis highlights the urgent need for integrated strategies to reduce food waste in the U.S. Effective measures could significantly mitigate environmental impacts and enhance food security. Such measures include:
+
+ - Prevention and Reduction: Implementing sustainable farming practices and improving the food supply chains.
+ - Recovery and Redistribution: Establishing food collection networks and incentivizing food donations.
+ - Recycling and Composting: Promoting community composting programs and biogas production facilities.
 
 
 
