@@ -1,4 +1,4 @@
-# Analysis-of-Food-Waste-in-the-United-States
+## Analysis-of-Food-Waste-in-the-United-States
 
 ![image](https://github.com/Renikeji19/Analysis-of-Food-Waste-in-the-United-States/assets/97131888/2d543c02-dbaa-4094-9cd0-189bf8e38622)
 
