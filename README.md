@@ -5,9 +5,12 @@
 
 This project analyzes food waste in the United States, focusing on its sources, reasons for waste, environmental impacts, and potential solutions. By understanding the magnitude and origins of food waste, this analysis aims to inform policy and programs that tackle food insecurity and reduce waste.
 
-## AUTHOR
+## Author
 
-ADEPEJU SHITTU
+**Adepeju Esther Shittu**  
+Data & Sustainability Strategist | Turning insights into action  
+[Portfolio](https://myfol.io/adepejushittu) | [LinkedIn](https://www.linkedin.com/in/adepejushittu)
+
 
 ## 📌 Overview
 
